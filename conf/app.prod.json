@@ -1,0 +1,23 @@
+{
+    "app_name": "knote",
+    "app_env": "dev",
+    "debug": true,
+    "database": {
+        "db_dsn": "root@tcp(localhost:3306)/knote_dev?charset=utf8mb4&parseTime=true&loc=Local"
+    },
+    "aliyun": {
+        "access_key": "",
+        "secret_key": ""
+    },
+    "sentry": {
+        "dsn": ""
+    },
+    "qiniu": {
+        "access_key": "",
+        "secret_key": "",
+        "bucket": ""
+    },
+    "redis": {
+        "addr": "127.0.0.1:6379"
+    }
+}
