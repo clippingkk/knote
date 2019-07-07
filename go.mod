@@ -5,6 +5,7 @@ go 1.12
 require (
 	github.com/clippingkk/common v0.0.0-20190706135003-cf3650a568dc
 	github.com/go-sql-driver/mysql v1.4.1
+	github.com/go-xorm/xorm v0.7.3 // indirect
 	github.com/jinzhu/copier v0.0.0-20190625015134-976e0346caa8 // indirect
 	github.com/stretchr/objx v0.2.0 // indirect
 	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4 // indirect
